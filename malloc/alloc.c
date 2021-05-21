@@ -1,6 +1,6 @@
 /**
- * author: Jiaqi Cao
  * malloc
+ * author: Jiaqi Cao
  * CS 241 - Spring 2021
  */
 #include <stdio.h>
