@@ -1,4 +1,5 @@
 /**
+ * author: Jiaqi Cao
  * Password Cracker Lab
  * CS 241 - Spring 2021
  */
