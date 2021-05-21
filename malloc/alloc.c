@@ -1,4 +1,5 @@
 /**
+ * author: Jiaqi Cao
  * malloc
  * CS 241 - Spring 2021
  */
