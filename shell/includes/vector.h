@@ -1,5 +1,4 @@
-/**
- * shell
+/** shell
  * CS 241 - Spring 2021
  */
 #pragma once
